@@ -1,5 +1,7 @@
 # Telegram Channel Scraper
 
+![Telegram Channel Scraper](https://raw.githubusercontent.com/smoldesk/apify-scrapers/main/assets/telegram/banner.webp)
+
 Scrape public Telegram channels: messages, views, reactions, media, links and subscriber counts. No Telegram account, phone number, `api_id` or `api_hash`. Runs on [Apify](https://apify.com/smoldesk/telegram-channel-scraper).
 
 ## What you get

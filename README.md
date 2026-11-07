@@ -97,4 +97,4 @@ Yes. Set `searchQuery` and only matching messages are returned.
 
 ## More scrapers
 
-Telegram is one of 18 no-login scrapers by Smoldesk Studios. See the full list: [smoldesk/apify-scrapers](https://github.com/smoldesk/apify-scrapers).
+Telegram is one of 19 no-login scrapers by Smoldesk Studios. See the full list: [smoldesk/apify-scrapers](https://github.com/smoldesk/apify-scrapers).
